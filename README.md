@@ -19,7 +19,7 @@
 Hi! I'm **Palak**, a Computer Science and Engineering student from India.
 
 - 💻 I enjoy exploring web development and software projects.
-- ☁️ I'm interested in cloud computing and AWS.
+- 🌐 `Passionate about web development and creating cool things.`
 - 🧠 I have worked on Python, JavaScript, and machine-learning projects.
 - 🌱 I'm continuously learning and improving my skills.
 - 🌸 My goal is to become a skilled engineer and bulid useful solutions.
